@@ -3,7 +3,7 @@
 Square root Calculator in Minecraft.  
 Project done at 20160712
 
-[Youtube video](https://youtu.be/HvhP6PfT-PQ)
+Video: https://youtu.be/HvhP6PfT-PQ
 
 ## Features
 - The algorithm used to calculate the square root value is "[long division method](https://www.google.com/search?q=square+root+long+division+method)", in korean "[개평법](https://namu.wiki/w/%EC%84%B8%EB%A1%9C%EC%85%88%EB%B2%95#s-2.2.1)"
